@@ -6,11 +6,11 @@ Governments across Africa (Rwanda EBM, Kenya eTIMS, Uganda EFRIS, Ghana E-VAT, N
 
 SokoFlow is a single product that runs **sales, stock, and customer billing** — and automatically issues the **verified tax invoices** your country legally demands, **even when the internet is down**.
 
-- 🔌 **Deploy anywhere:** Docker image / Docker Compose, single-tenant, on-prem, private cloud, or local server
-- 🌍 **Sovereign data:** customer data stays in the customer's infrastructure
-- 🧾 **Fiscal-engine ready:** certified adapters for RRA EBM (Rwanda), KRA eTIMS (Kenya), URA EFRIS (Uganda) — more on the roadmap
-- 📴 **Offline-first:** transactions queue locally and resync when connectivity returns
-- 🤖 **Zero AI:** deterministic, auditable, workflow-driven, boring-by-design financial-grade software
+- **Deploy anywhere:** Docker image / Docker Compose, single-tenant, on-prem, private cloud, or local server
+- **Sovereign data:** customer data stays in the customer's infrastructure
+- **Fiscal-engine ready:** certified adapters for RRA EBM (Rwanda), KRA eTIMS (Kenya), URA EFRIS (Uganda) — more on the roadmap
+- **Offline-first:** transactions queue locally and resync when connectivity returns
+- **Zero AI:** deterministic, auditable, workflow-driven, boring-by-design financial-grade software
 
 ---
 
@@ -30,7 +30,7 @@ Non-compliance means fines, blocked VAT deductions, and exclusion from public te
 
 ## Project status
 
-> 🚧 **Early stage.** This repository currently contains the project scaffold (positioning, licensing, governance). The MVP is being built — see [docs/ROADMAP.md](docs/ROADMAP.md).
+> **Early stage.** This repository currently contains the project scaffold (positioning, licensing, governance). The MVP is being built — see [docs/ROADMAP.md](docs/ROADMAP.md).
 
 ## Roadmap (high-level)
 
@@ -52,4 +52,4 @@ Report security issues privately — see [SECURITY.md](SECURITY.md). This softwa
 
 ---
 
-Made with 🧾 in Kigali, Rwanda · [Atanor](https://github.com/atanor-org)
+Made in Kigali, Rwanda · [Atanor](https://github.com/atanor-org)

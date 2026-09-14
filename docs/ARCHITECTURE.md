@@ -1,6 +1,6 @@
 # Architecture (high-level)
 
-> ⚠️ This is a living design note. The MVP does not exist yet — nothing below
+> This is a living design note. The MVP does not exist yet — nothing below
 > is code.
 
 ## Design principles

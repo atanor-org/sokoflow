@@ -8,8 +8,8 @@ expect nobody to cut corners here.
 
 | "Product version | Supported |
 |---|---|
-| 0.x (pre-release / MVP) | ❌ not production-ready |
-| 1.x and above | ✅ supported |
+| 0.x (pre-release / MVP) | Not supported — pre-production |
+| 1.x and above | Supported |
 
 We are pre-1.0. Until the first certified stable release, treat SokoFlow as
 **not for use with real fiscal data** without an explicit go-live from the
