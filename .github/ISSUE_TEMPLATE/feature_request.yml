@@ -1,0 +1,32 @@
+name: Feature request
+description: Suggest an idea for SokoFlow
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What pain or workflow is missing? Describe the user and the job.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: What should be built? Keep it deterministic — no AI suggestions, please.
+    validations:
+      required: true
+  - type: dropdown
+    id: market
+    attributes:
+      label: Where does this matter most?
+      options:
+        - Rwanda
+        - Kenya
+        - Uganda
+        - Tanzania
+        - Pan-Africa
+        - Other
+    validations:
+      required: false
