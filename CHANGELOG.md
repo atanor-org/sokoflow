@@ -11,3 +11,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Project scaffold: positioning, code of conduct, contributing guide,
   security policy, roadmap, and repository governance
+- Contributors list with module-lead roles and public-credit policy
+  (started with the operator-lookup module lead)
+- Draft revenue-share framework for listed module leads
