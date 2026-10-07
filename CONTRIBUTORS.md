@@ -12,7 +12,7 @@ you want to appear and we will update it.
 
 | Name | Role | Scope | Contact |
 |---|---|---|---|
-| Saidu Bundu-kamara | Operator-lookup module maintainer | Sierra Leone corridor; corridor expansion for mobile-number to operator / mobile-money mapping | bundukamarasaidu@gmail.com (public package record) |
+| Saidu Bundu-Kamara ([@saidubundukamara](https://github.com/saidubundukamara)) | Operator-lookup module maintainer | Sierra Leone corridor; corridor expansion for mobile-number to operator / mobile-money mapping | GitHub |
 
 ## What each role means
 
